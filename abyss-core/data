@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TokenX",
+    "symbol": "TX",
+    "volume_24h": 15000,
+    "market_cap": 120000,
+    "age_days": 14,
+    "holders": 48
+  },
+  {
+    "name": "DeepGem",
+    "symbol": "DGM",
+    "volume_24h": 32000,
+    "market_cap": 250000,
+    "age_days": 7,
+    "holders": 102
+  },
+  {
+    "name": "SubAqua",
+    "symbol": "SBA",
+    "volume_24h": 8000,
+    "market_cap": 76000,
+    "age_days": 3,
+    "holders": 22
+  }
+]
