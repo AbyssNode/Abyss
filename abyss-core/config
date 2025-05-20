@@ -1,0 +1,20 @@
+# abyss-core/config/settings.py
+
+"""
+Global settings for Abyss AI.
+"""
+
+# Placeholder API keys (store real ones in .env for production)
+ETHERSCAN_API_KEY = "your-etherscan-key"
+DEXTOOLS_API_KEY = "your-dextools-key"
+
+# Scan settings
+MIN_SCORE_THRESHOLD = 85  # Only show tokens with score ≥ this
+WHALE_MIN_TX = 100000     # Min transaction size to trigger whale alert (in USD)
+
+# Toggles
+ENABLE_WHale_TRACKER = True
+ENABLE_DEEP_SCAN = True
+
+# Logging
+LOG_LEVEL = "DEBUG"  # Options: DEBUG, INFO, WARNING, ERROR
