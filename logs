@@ -1,0 +1,14 @@
+This folder stores log output from the Abyss AI engine.
+
+Logs are generated automatically when running the backend (main.py).
+Examples include:
+- Token scan results
+- Whale wallet detections
+- System warnings and errors
+
+Log format: timestamp — level — message
+
+Example:
+2025-05-20 22:34:18 — INFO — [Deep Scan] Found token: TokenX (Score: 91)
+
+NOTE: This folder may be excluded from GitHub using .gitignore if logs are sensitive.
