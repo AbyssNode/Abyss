@@ -1,0 +1,7 @@
+{
+  "volume_spike_threshold": 150000,
+  "price_jump_threshold": 0.12,
+  "wallet_movement_threshold": 500000,
+  "enable_email_alerts": false,
+  "enable_webhooks": true
+}
