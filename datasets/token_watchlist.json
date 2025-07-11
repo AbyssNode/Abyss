@@ -1,0 +1,14 @@
+[
+  {
+    "symbol": "DARK",
+    "source": "Uniswap",
+    "status": "high-volume",
+    "added": "2025-06-17"
+  },
+  {
+    "symbol": "GHOST",
+    "source": "PancakeSwap",
+    "status": "low-float",
+    "added": "2025-06-17"
+  }
+]
